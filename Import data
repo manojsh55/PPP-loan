@@ -1,0 +1,5 @@
+setwd("C:/Users/Manoj/OneDrive - Kansas State University/PPP Loan/PPP FOIA DATA")
+
+public_150k_plus_230630 <- read.csv("C:/Users/Manoj/OneDrive - Kansas State University/PPP Loan/PPP FOIA DATA/public_150k_plus_230630.csv")
+
+
